@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Gustavo Ullmann
+-Profissão: Testador de Software
+-Cidade: Porto Alegre/RS
+-O que faz nas horas vaga: ler, estudar, caminhar e andar de bicicleta
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante, ainda mais agora que estão ficando mais técnica as aulas. 
+-Feedback sobre a plataforma de estudo da EBAC: Fácil de usar e direto ao ponto. 
+
+Obrigado!!!
